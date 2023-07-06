@@ -32,3 +32,20 @@
   <ul>
     <li><strong>Number Buttons:</strong> Press these buttons to enter numeric values.</li>
     <li><strong>Operator Buttons:</strong> Use these buttons to select the desired arithmetic operation.</li>
+    <li><strong>Equals (=) Button:</strong> Press this button to perform the calculation and display the result.</li>
+    <li><strong>Clear Button:</strong> Clicking on this button will clear the entire display.</li>
+    <li><strong>Delete Button:</strong> Clicking on this button will remove the last entered digit or operator.</li>
+    <li><strong>Number Format Dropdown:</strong> Use this dropdown to change the number format (e.g., decimal, scientific notation).</li>
+  </ul>
+  
+  <p>To perform a calculation, follow these steps:</p>
+  <ol>
+    <li>Enter the first number using the number buttons.</li>
+    <li>Select the desired arithmetic operation using the operator buttons.</li>
+    <li>Enter the second number using the number buttons.</li>
+    <li>Press the equals (=) button to display the result.</li>
+  </ol>
+  
+  <p>You can clear the display at any time by clicking on the clear button. If you make a mistake while entering the numbers, you can delete the last digit or operator by clicking on the delete button.</p>
+  
+  <p>Additionally, you can change the number format by selecting the desired option from the number format dropdown
