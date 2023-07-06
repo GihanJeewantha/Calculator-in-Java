@@ -46,6 +46,4 @@
     <li>Press the equals (=) button to display the result.</li>
   </ol>
   
-  <p>You can clear the display at any time by clicking on the clear button. If you make a mistake while entering the numbers, you can delete the last digit or operator by clicking on the delete button.</p>
-  
-  <p>Additionally, you can change the number format by selecting the desired option from the number format dropdown
+ 
