@@ -1,25 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Calculator-in-Java</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-      margin: 20px;
-    }
-    h1 {
-      color: #333;
-    }
-    h2 {
-      color: #666;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-  </style>
-</head>
+
 <body>
   <h1>Calculator-in-Java</h1>
   <p>This project is a simple calculator written in Java that can perform basic arithmetic operations (+, -, *, /). It also includes additional features such as clearing the display, deleting the last entered number, and changing the number format. The calculator utilizes the Swing library to create a user-friendly graphical user interface (GUI).</p>
